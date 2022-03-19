@@ -1,0 +1,2 @@
+alias httpd='docker run -dit --rm --name httpd -p 8080:80 -v "$PWD":/usr/local/apache2/htdocs/ httpd:2.4'
+alias sbt='docker run --rm --tty --interactive --volume "$PWD":/app bigtruedata/sbt'

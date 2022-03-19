@@ -1,0 +1,22 @@
+
+[color]
+  ui = true
+  branch = true
+  diff = true
+  interactive = true
+  status = true
+[color "status"]
+  added = green
+  changed = red
+  deleted = red
+  untracked = yellow
+[user]
+  email = countingtoten@gmail.com
+  name = Jim Weinert
+  signingkey = 4025B7EE5EF17A55
+[commit]
+  default = matching
+[core]
+  excludesfile = ~/.gitignore
+[init]
+	defaultBranch = main

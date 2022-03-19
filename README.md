@@ -4,7 +4,7 @@
 
 ## custom-config structure
 
-### dotfiles
+### files
 
 Files in this directory are copied into your home directory. 
 
