@@ -1,1 +1,2 @@
-export GOPATH=$HOME/src
+export GOPATH=$HOME
+export PATH="/usr/local/go/bin:$GOPATH/bin:$PATH"

@@ -1,0 +1,3 @@
+export PATH="$PATH:/Users/countingtoten/Library/Application Support/Coursier/bin"
+# export JAVA_HOME=`/usr/libexec/java_home`
+# export SBT_CREDENTIALS=$HOME/.ivy2/.credentials
